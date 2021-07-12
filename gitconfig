@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = clobato7@gmail.com
+	name = Claudia Lobato
